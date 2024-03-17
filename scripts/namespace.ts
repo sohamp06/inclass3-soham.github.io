@@ -1,0 +1,9 @@
+"use strict";
+
+
+namespace core
+{
+
+
+
+}
